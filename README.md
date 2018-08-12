@@ -6,4 +6,4 @@ Experimental statechart primitives for authoring via Figma. Contributions welcom
 
 [Figma Statecharts - Prototype Example with Hierarchy](https://www.figma.com/proto/d3XuQ01shhr0QtgmL9PjjOu9/Experiment-Visual-Formalism-for-Process-Modeling?node-id=61%3A1021&scaling=min-zoom)
 
-![Statecharts](./Playground-2.png)
+![Statecharts](./img/Playground-2.png)

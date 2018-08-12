@@ -1,0 +1,4 @@
+// statechart.proto
+//
+// A description of an executable statechart-inspired system.
+syntax = "proto3";
